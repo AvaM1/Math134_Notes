@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a0531a5-84a1-4034-a9ae-2f6271034dee" name="Changes" comment="Week 2 contents">
+    <list default="true" id="3a0531a5-84a1-4034-a9ae-2f6271034dee" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/134A Week 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/134A Week 2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
   }
 }</component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="a9a547a0-3d2c-4d37-8958-8a05778628d1" />
+    <option name="defaultAccountId" value="a87c4b87-9dd9-488c-a56b-97d53b1cf48c" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -63,9 +65,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
@@ -97,7 +99,6 @@
       <workItem from="1712212685010" duration="7082000" />
       <workItem from="1712220901244" duration="122000" />
       <workItem from="1712249834104" duration="4505000" />
-      <workItem from="1712634491700" duration="7403000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
@@ -163,68 +164,26 @@
       <option name="project" value="LOCAL" />
       <updated>1712255525369</updated>
     </task>
-    <task id="LOCAL-00009" summary="Update">
-      <option name="closed" value="true" />
-      <created>1712259736478</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1712259736478</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Update">
-      <option name="closed" value="true" />
-      <created>1712259782314</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1712259782314</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Week 2 contents">
-      <option name="closed" value="true" />
-      <created>1712639909820</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1712639909820</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Week 2 contents">
-      <option name="closed" value="true" />
-      <created>1712641207235</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1712641207235</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Week 2 contents">
-      <option name="closed" value="true" />
-      <created>1712641704442</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1712641704442</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial" />
     <MESSAGE value="Fixes a problem in computing future value, added example for internal rate of return" />
-    <MESSAGE value="Week 2 contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes a problem in computing future value, added example for internal rate of return" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/thwang/PycharmProjects/Math_134_Notes/134A Week 2.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
