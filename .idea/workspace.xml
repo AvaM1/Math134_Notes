@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a0531a5-84a1-4034-a9ae-2f6271034dee" name="Changes" comment="Week 2 contents">
-      <change afterPath="$PROJECT_DIR$/134A Week 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3a0531a5-84a1-4034-a9ae-2f6271034dee" name="Changes" comment="Week 3 contents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/134A Week 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/134A Week 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/134A Week 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/134A Week 3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
       <workItem from="1712220901244" duration="122000" />
       <workItem from="1712249834104" duration="4505000" />
       <workItem from="1712634491700" duration="7403000" />
-      <workItem from="1713248628001" duration="7472000" />
+      <workItem from="1713248628001" duration="10089000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
@@ -227,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712692021969</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Week 3 contents">
+      <option name="closed" value="true" />
+      <created>1713256696024</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713256696024</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +255,7 @@
     <MESSAGE value="Initial" />
     <MESSAGE value="Fixes a problem in computing future value, added example for internal rate of return" />
     <MESSAGE value="Week 2 contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 contents" />
+    <MESSAGE value="Week 3 contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 contents" />
   </component>
 </project>
